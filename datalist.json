@@ -1,0 +1,41 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-4479837027512535/5247849522",
+      "main_ads_intertitial": "ca-app-pub-4479837027512535/1389669024",
+      "backup_ads_banner": "46c1d4123c3fb4f9",
+      "backup_ads_intertitial": "a2f227bc01fdc2cf",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "HOME": [
+    {
+      "keyword_home_fragment": "anime"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "AOV",
+      "image_url": "https://fsa.zobj.net/crop.php?r=N3w3rMZ8fDLio1UftXKedClmQK00A-VifxUaRPjEkLerzL1fNhlaRM2pIvs-yBPxHRVHlHBuBSCcp239XXZ25wBiOHGeZquh1SUMRD9QmWBEYYvnjJUEiAhdAntFcgwf34QxqvL8Y87P2RvDxiJYHzNfaa4PYjwVKTiuSgJf3c56lq75dlu3Yi0K7kpNEVW9ZeOLu7-VxVzPiIa7"
+    },
+    {
+      "title_search": "Anime",
+      "image_url": "https://fsa.zobj.net/crop.php?r=8eoBe4cbegDawPwebPm1mCkVfKIRIsVG7cOE_Dex_LTzpMdU_mXrtjCY6p07Ex19ojG3-Ktsvg0zwz5Q4HNPWaEkMrcsvAYfzv5Aej6EzivPb8z0VR6ZbKROUQ0L-19bsBwqNmVB5oEOL8eh0J8p36hlZEwCE6wZbLBvU2SWvc2fn44qqDkGv6MTZ0INQOzXOLFmihinMJyUp9O6"
+    },
+    {
+      "title_search": "Esport",
+      "image_url": "https://fsa.zobj.net/crop.php?r=cCA3ZWyvg5hdpowYM2j4MhwFGUBKnggSMfM9THiIcS_xvvjr0GFRF3oDdWIoBbb1Mf0MGuHGjJpdB4axpCTigBg7H0GYvHL8bJXpUxXTIYpeQRWgoIjCvk1HfXfanGx1TA6GM4fNfUy4xgt-BtJchVIBz-srwUJrPPRoGfLjGxuL8dEXziLoIuH8hS9nEzckrSeVrD78zty0aIEi"
+    }
+  ]
+}
